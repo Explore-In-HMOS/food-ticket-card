@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/LoginPage",
+    "pages/OTPPage",
+    "pages/MainPage",
+    "pages/PaymentPage",
+    "pages/Index"
+  ]
+}

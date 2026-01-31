@@ -1,0 +1,94 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "welcome_text",
+      "value": "Welcome to FoodTicket"
+    },
+    {
+      "name": "quick_text",
+      "value": "Quickly sign in and manage your card."
+    },
+    {
+      "name": "email_phone_text",
+      "value": "E-mail/Phone:"
+    },
+    {
+      "name": "signin",
+      "value": "Sign-In"
+    },
+    {
+      "name": "ok_button",
+      "value": "Confirm"
+    },{
+      "name": "verify_text",
+      "value": "Verification"
+    },{
+      "name": "6_digit_text",
+      "value": "6 digit code"
+    },
+    {
+      "name": "Payment_Select_Method",
+      "value": "Select a payment method"
+    },
+    {
+      "name": "Payment_Explain_Text",
+      "value": "You can pay with Plus points or NFC."
+    },
+    {
+      "name": "Pay_With_Plus",
+      "value": "Pay with Plus Points"
+    },
+    {
+      "name": "Pay_With_NFC",
+      "value": "Pay with NFC"
+    },
+    {
+      "name": "Nfc_Started_Status_Message",
+      "value": "NFC payment started. Please approach a POS/reader."
+    },
+    {
+      "name": "Nfc_Context_Error_Message",
+      "value": "Context not available. NFC payment could not be started."
+    },
+    {
+      "name": "PlusPay_Title",
+      "value": "Pay with Plus Points"
+    },
+    {
+      "name": "Otp_Label",
+      "value": "One-Time Code"
+    },
+    {
+      "name": "Remaining_Time_Label",
+      "value": "Remaining time"
+    },
+    {
+      "name": "Back_Label",
+      "value": "Back"
+    },
+    {
+      "name": "time_over",
+      "value": "Time is over"
+    },
+    {
+      "name": "get_new_code",
+      "value": "Get new code"
+    },
+    {
+      "name": "my_card",
+      "value": "My Card"
+    }
+  ]
+}

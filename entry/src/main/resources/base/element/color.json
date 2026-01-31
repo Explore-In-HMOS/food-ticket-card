@@ -1,0 +1,346 @@
+{
+  "color": [
+    {
+      "name": "primary_green",
+      "value": "#00D26A"
+    },
+    {
+      "name": "primary_green_light",
+      "value": "#33DC88"
+    },
+    {
+      "name": "primary_green_dark",
+      "value": "#00A854"
+    },
+    {
+      "name": "primary_green_10",
+      "value": "#1A00D26A"
+    },
+    {
+      "name": "primary_green_20",
+      "value": "#3300D26A"
+    },
+    {
+      "name": "background_primary",
+      "value": "#0D1117"
+    },
+    {
+      "name": "background_secondary",
+      "value": "#161B22"
+    },
+    {
+      "name": "background_tertiary",
+      "value": "#1C2128"
+    },
+    {
+      "name": "background_card",
+      "value": "#21262D"
+    },
+    {
+      "name": "background_elevated",
+      "value": "#2D333B"
+    },
+    {
+      "name": "surface_dark",
+      "value": "#0A0E12"
+    },
+    {
+      "name": "surface_overlay",
+      "value": "#1A1F26"
+    },
+    {
+      "name": "text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#8B949E"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#6E7681"
+    },
+    {
+      "name": "text_disabled",
+      "value": "#484F58"
+    },
+    {
+      "name": "text_inverse",
+      "value": "#0D1117"
+    },
+    {
+      "name": "text_on_primary",
+      "value": "#0D1117"
+    },
+    {
+      "name": "border_default",
+      "value": "#30363D"
+    },
+    {
+      "name": "border_muted",
+      "value": "#21262D"
+    },
+    {
+      "name": "border_emphasis",
+      "value": "#00D26A"
+    },
+    {
+      "name": "divider",
+      "value": "#21262D"
+    },
+    {
+      "name": "success",
+      "value": "#00D26A"
+    },
+    {
+      "name": "success_light",
+      "value": "#2EA043"
+    },
+    {
+      "name": "success_background",
+      "value": "#1A3D2E"
+    },
+    {
+      "name": "warning",
+      "value": "#F0B429"
+    },
+    {
+      "name": "warning_light",
+      "value": "#FFD33D"
+    },
+    {
+      "name": "warning_background",
+      "value": "#3D3214"
+    },
+    {
+      "name": "error",
+      "value": "#F85149"
+    },
+    {
+      "name": "error_light",
+      "value": "#FF7B72"
+    },
+    {
+      "name": "error_background",
+      "value": "#3D1E1E"
+    },
+    {
+      "name": "info",
+      "value": "#58A6FF"
+    },
+    {
+      "name": "info_light",
+      "value": "#79C0FF"
+    },
+    {
+      "name": "info_background",
+      "value": "#1E3A5F"
+    },
+    {
+      "name": "gradient_card_start",
+      "value": "#1A2332"
+    },
+    {
+      "name": "gradient_card_end",
+      "value": "#0D1117"
+    },
+    {
+      "name": "gradient_button_start",
+      "value": "#00D26A"
+    },
+    {
+      "name": "gradient_button_end",
+      "value": "#00A854"
+    },
+    {
+      "name": "badge_meal",
+      "value": "#00D26A"
+    },
+    {
+      "name": "badge_grocery",
+      "value": "#58A6FF"
+    },
+    {
+      "name": "badge_gift",
+      "value": "#A371F7"
+    },
+    {
+      "name": "badge_coffee",
+      "value": "#F0B429"
+    },
+    {
+      "name": "badge_expiring",
+      "value": "#FF6B35"
+    },
+    {
+      "name": "chip_selected_bg",
+      "value": "#00D26A"
+    },
+    {
+      "name": "chip_selected_text",
+      "value": "#0D1117"
+    },
+    {
+      "name": "chip_unselected_bg",
+      "value": "#21262D"
+    },
+    {
+      "name": "chip_unselected_text",
+      "value": "#8B949E"
+    },
+    {
+      "name": "button_primary_bg",
+      "value": "#00D26A"
+    },
+    {
+      "name": "button_primary_text",
+      "value": "#0D1117"
+    },
+    {
+      "name": "button_secondary_bg",
+      "value": "#21262D"
+    },
+    {
+      "name": "button_secondary_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "button_ghost_bg",
+      "value": "#00000000"
+    },
+    {
+      "name": "button_ghost_text",
+      "value": "#00D26A"
+    },
+    {
+      "name": "button_disabled_bg",
+      "value": "#30363D"
+    },
+    {
+      "name": "button_disabled_text",
+      "value": "#484F58"
+    },
+    {
+      "name": "input_background",
+      "value": "#0D1117"
+    },
+    {
+      "name": "input_border",
+      "value": "#30363D"
+    },
+    {
+      "name": "input_border_focus",
+      "value": "#00D26A"
+    },
+    {
+      "name": "input_placeholder",
+      "value": "#6E7681"
+    },
+    {
+      "name": "navbar_background",
+      "value": "#0D1117"
+    },
+    {
+      "name": "navbar_active",
+      "value": "#00D26A"
+    },
+    {
+      "name": "navbar_inactive",
+      "value": "#6E7681"
+    },
+    {
+      "name": "tabbar_indicator",
+      "value": "#00D26A"
+    },
+    {
+      "name": "tabbar_active",
+      "value": "#00D26A"
+    },
+    {
+      "name": "tabbar_inactive",
+      "value": "#8B949E"
+    },
+    {
+      "name": "map_marker",
+      "value": "#00D26A"
+    },
+    {
+      "name": "map_overlay",
+      "value": "#CC0D1117"
+    },
+    {
+      "name": "qr_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "qr_foreground",
+      "value": "#0D1117"
+    },
+    {
+      "name": "transaction_income",
+      "value": "#00D26A"
+    },
+    {
+      "name": "transaction_expense",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "transparent_red",
+      "value": "#FF6B6B"
+    },
+    {
+      "name": "transaction_expense_gray",
+      "value": "#CCCCCC"
+    },{
+      "name": "transaction_expense_dark_gray",
+      "value": "#555A7A"
+    },
+    {
+      "name": "transaction_failed",
+      "value": "#F85149"
+    },
+    {
+      "name": "transaction_black",
+      "value": "#1A1A2E"
+    },{
+      "name": "transaction_light_black",
+      "value": "#231C46"
+    },
+    {
+      "name": "rating_star",
+      "value": "#F0B429"
+    },
+    {
+      "name": "skeleton_base",
+      "value": "#21262D"
+    },
+    {
+      "name": "skeleton_highlight",
+      "value": "#30363D"
+    },
+    {
+      "name": "ripple_light",
+      "value": "#1AFFFFFF"
+    },
+    {
+      "name": "ripple_primary",
+      "value": "#3300D26A"
+    },
+    {
+      "name": "shadow_color",
+      "value": "#66000000"
+    },
+    {
+      "name": "overlay_scrim",
+      "value": "#B30D1117"
+    },
+    {
+      "name": "otp_active",
+      "value": "#007AFF"
+    },
+    {
+      "name": "otp_pasive",
+      "value": "#999"
+    }
+  ]
+}
