@@ -2,7 +2,7 @@
 
 # FoodTicketCard
 
-OTP-based Payments, NFC, and Campaign Notifications for HarmonyOS NEXT
+OTP-based Payments, NFC, and Campaign Notifications for HarmonyOS
 
 FoodTicketCard provides secure authentication with user login and OTP verification; it combines Payment/PlusPay and NFC contactless payment flows. The app keeps users informed about the latest offers through rotating food campaign notifications.
 
@@ -26,7 +26,7 @@ FoodTicketCard provides secure authentication with user login and OTP verificati
 # Technology
 
 ## Stack (Languages, Frameworks, Tools, Libraries)
-- Languages & Frameworks: ArkTS (HarmonyOS NEXT)
+- Languages & Frameworks: ArkTS (HarmonyOS)
 - HarmonyOS Kits:
   - ArkUI (declarative UI, Navigation, inputs, buttons, progress, scroll)
   - NotificationKit (publishing campaign notifications)
@@ -81,7 +81,7 @@ FoodTicketCard/
 
 # Constraints and Restrictions
 ## Supported Devices
-- Target: HarmonyOS NEXT devices (phones; contactless payments on NFC‑capable models)
+- Target: HarmonyOS devices (phones; contactless payments on NFC‑capable models)
 - Form Factors: Phone‑optimized layouts; adaptable to other form factors.
 
 - Notification Behavior
